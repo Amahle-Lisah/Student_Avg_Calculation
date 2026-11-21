@@ -32,7 +32,7 @@ public class StudentAvgMark {
         mark4 = scanner.nextDouble();
         
         // 3. PROCESS (Claculating the averge mark)
-        average = (mark1 + mark2 + mark3 ) / 3;
+        average = (mark1 + mark2 + mark3 ) / 4;
         
         // 4. OUTPUT (the average is calculated) 
         System.out.println("Your average mark is: " + average);
